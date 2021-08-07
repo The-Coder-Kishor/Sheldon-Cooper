@@ -1,5 +1,5 @@
 
-<h1 align="center">Cooper</h1>
+<h1 align="center">Sheldon Cooper</h1>
 
 <p align="center">
     <a href="https://www.jsdelivr.com/package/npm/docsify-darklight-theme">
