@@ -21,9 +21,9 @@
 
 # What it is
 Sheldon Cooper is a Science and Math discord bot with a lot of other features along with it for Discord Servers with a lot of commands and more being added.
-Bot website: https://sheldonbot.tech/
-Docs(incomplete): https://sheldonbot.tech/sheldon-bot-docs/#/
-The basic code structure and some commands were taken from: https://github.com/corpnewt/CorpBot.py
+- Bot website: https://sheldonbot.tech/
+- Docs(incomplete): https://sheldonbot.tech/sheldon-bot-docs/#/
+- The basic code structure and some commands were taken from: https://github.com/corpnewt/CorpBot.py
 
 
 # Features
