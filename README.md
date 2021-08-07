@@ -1,7 +1,5 @@
-<h1 align="center">
-    <img src="./sh.png" alt="jsdeliver"> 
-</h1>
-<h1 align="center">Sheldon Docs</h1>
+
+<h1 align="center">Cooper</h1>
 
 <p align="center">
     <a href="https://www.jsdelivr.com/package/npm/docsify-darklight-theme">
@@ -23,6 +21,9 @@
 
 # What it is
 Sheldon Cooper is a Science and Math discord bot with a lot of other features along with it for Discord Servers with a lot of commands and more being added.
+Bot website: https://sheldonbot.tech/
+Docs(incomplete): https://sheldonbot.tech/sheldon-bot-docs/#/
+The basic code structure and some commands were taken from: https://github.com/corpnewt/CorpBot.py
 
 
 # Features
@@ -45,9 +46,7 @@ Sheldon Cooper is a Science and Math discord bot with a lot of other features al
 - Use the "suggest" command to send any plausible error or other suggestions and feedback to the bot creators.
 - Join our [Discord Server](https://discord.gg/DEAevXRduJ) for announcements and new updates related to the bot.
 
-
-##### Want to Setup the bot in your server?
-[Click Here](invitation.md)
-
-##### Want to know more about the commands?
-[Click Here](showcase.md)
+# How to setup the bot
+- Enter your TOKEN in the .env file
+- Enter your prefix in the settings_dict.json
+- Set up MongoDB or just run the bot directly, the bot will store the setting in json
